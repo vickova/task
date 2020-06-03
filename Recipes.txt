@@ -3,3 +3,4 @@ welcome to vicky's code
 
 numeric
 alpha
+alpha-numeric
